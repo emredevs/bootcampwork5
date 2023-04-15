@@ -7791,6 +7791,11 @@ module-details-from-path@^1.0.3:
   resolved "https://registry.yarnpkg.com/module-details-from-path/-/module-details-from-path-1.0.3.tgz#114c949673e2a8a35e9d35788527aa37b679da2b"
   integrity sha512-ySViT69/76t8VhE1xXHK6Ch4NcDd26gx0MzKXLO+F7NOtnqH68d9zF94nT8ZWSxXh8ELOERsnJO/sWt1xZYw5A==
 
+moirus@^1.0.1:
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/moirus/-/moirus-1.0.1.tgz#3a01ce9cba9d8fadb5ca464797e47961c12d6773"
+  integrity sha512-HNVWi3RxW0Vc9ZuXvpl+uWB4plXHeGQLg2vyMfoe60tv25yFWs8PflhWE8KUcEptn5AfS2sykmt+92NRwFaSdA==
+
 move-concurrently@^1.0.1:
   version "1.0.1"
   resolved "https://registry.yarnpkg.com/move-concurrently/-/move-concurrently-1.0.1.tgz#be2c005fda32e0b29af1f05d7c4b33214c701f92"
