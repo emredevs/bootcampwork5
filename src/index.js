@@ -1,6 +1,6 @@
 import React from 'react'
 import styles from './styles.module.css'
-
+//button components tanımlanığımız ve styles verdiğimiz sayfa
 export const Primary = (props) => {
   return (
     <button className={styles.Primary} {...props}>
