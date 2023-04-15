@@ -1,4 +1,5 @@
 import React from 'react'
+//oluşturduğumuz components çağırılışı
 import {
   Primary,
   Success,
@@ -14,6 +15,7 @@ import 'moirus/dist/index.css'
 const App = () => {
   return (
     <div className='App'>
+      {/* çağırılan components lerin kullanılması */}
       <Primary text='Primary' />
       <Success text='Success' />
       <Danger text='Danger' />
